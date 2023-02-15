@@ -1,2 +1,2 @@
 #!/bin/bash
-printf 0.8'\n' $NUM
+0.00
