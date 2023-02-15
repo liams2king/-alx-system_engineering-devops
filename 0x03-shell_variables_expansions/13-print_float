@@ -1,2 +1,2 @@
 #!/bin/bash
-0.00
+printf 0.4f'\n' $NUM
